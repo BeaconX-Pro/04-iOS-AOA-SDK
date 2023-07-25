@@ -1,0 +1,6 @@
+framework module Pods_MKBeaconXProACTag_Example {
+  umbrella header "Pods-MKBeaconXProACTag_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

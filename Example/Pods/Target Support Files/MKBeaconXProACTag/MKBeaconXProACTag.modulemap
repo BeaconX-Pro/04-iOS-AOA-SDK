@@ -1,0 +1,6 @@
+framework module MKBeaconXProACTag {
+  umbrella header "MKBeaconXProACTag-umbrella.h"
+
+  export *
+  module * { export * }
+}
