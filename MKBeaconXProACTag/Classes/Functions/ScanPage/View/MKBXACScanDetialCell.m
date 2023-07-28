@@ -176,7 +176,8 @@ static CGFloat const batteryIconHeight = 25.f;
     
     self.rssiLabel.text = [SafeStr(_dataModel.rssi) stringByAppendingString:@"dBm"];
     self.batteryLabel.text = SafeStr(_dataModel.battery);
-    self.macLabel.text = [NSString stringWithFormat:@"%@%@",@"MAC: ",SafeStr(_dataModel.macAddress)];
+    self.macLabel.text = SafeStr(_dataModel.macAddress);
+    self.timeLabel.text = SafeStr(_dataModel.displayTime);
     [self setNeedsLayout];
 }
 

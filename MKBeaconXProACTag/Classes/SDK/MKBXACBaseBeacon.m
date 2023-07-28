@@ -62,10 +62,10 @@
     beacon.frameType = MKBXACParamInfoPositionFrameType;
     NSString *binary1 = [MKBLEBaseSDKAdopter binaryByhex:[advData substringWithRange:NSMakeRange(0, 2)]];
     beacon.advChannel = [MKBXACSDKDataAdopter parseAdvChannel:[binary1 substringWithRange:NSMakeRange(5, 3)]];
-    beacon.txPower = [MKBXACSDKDataAdopter parseAdvChannel:[binary1 substringWithRange:NSMakeRange(0, 4)]];
+    beacon.txPower = [MKBXACSDKDataAdopter parseAdvTxPower:[binary1 substringWithRange:NSMakeRange(0, 4)]];
     NSString *binary2 = [MKBLEBaseSDKAdopter binaryByhex:[advData substringWithRange:NSMakeRange(2, 2)]];
     beacon.battery = [MKBXACSDKDataAdopter parseAdvBattery:[binary2 substringWithRange:NSMakeRange(0, 4)]];
-    beacon.alarmStatus = [[binary2 substringWithRange:NSMakeRange(5, 1)] isEqualToString:@"1"];
+    beacon.alarmStatus = [[binary2 substringWithRange:NSMakeRange(4, 1)] isEqualToString:@"1"];
     NSString *binary3 = [MKBLEBaseSDKAdopter binaryByhex:[advData substringWithRange:NSMakeRange(4, 2)]];
     beacon.advInterval = [MKBXACSDKDataAdopter parseAdvInterval:[binary3 substringWithRange:NSMakeRange(1, 7)]];
     

@@ -177,6 +177,34 @@ static const char *frameTypeKey = "frameTypeKey";
         exsitModel.macAddress = tempModel.macAddress;
     }
     
+    if (exsitModel.advertiseList.count > 0) {
+        MKBXACBaseBeacon *exsitBeacon = exsitModel.advertiseList[0];
+        BOOL needRemove = NO;
+        if ([exsitBeacon isKindOfClass:MKBXACScanDeviceInfoCellModel.class]) {
+            //当前是设备信息帧，
+            if (beacon.frameType == MKBXACProductionTestFrameType) {
+                needRemove = YES;
+            }
+        }else if ([exsitBeacon isKindOfClass:MKBXACScanParamInfoCellModel.class]) {
+            //当前是产测广播帧
+            if (beacon.frameType == MKBXACParamInfoPositionFrameType || beacon.frameType == MKBXACTriaxialDataFrameType || beacon.frameType == MKBXACUserDataPositionFrameType) {
+                needRemove = YES;
+            }
+        }
+        if (needRemove) {
+            //产测帧跟正常广播帧不共存
+            [exsitModel.advertiseList removeAllObjects];
+            NSObject *obj = [self parseBeaconDatas:beacon];
+            if (obj) {
+                NSInteger frameType = [self fetchFrameIndex:obj];
+                obj.index = 0;
+                obj.frameIndex = frameType;
+                [exsitModel.advertiseList addObject:obj];
+            }
+            return;
+        }
+    }
+    
     BOOL contain = NO;
     
     for (NSInteger i = 0; i < exsitModel.advertiseList.count; i ++) {
@@ -348,10 +376,10 @@ static const char *frameTypeKey = "frameTypeKey";
         return @"10ms";
     }
     if (interval == 1) {
-        return @"20mm";
+        return @"20ms";
     }
     if (interval == 2) {
-        return @"50mm";
+        return @"50ms";
     }
     if (interval == 3) {
         return @"100ms";

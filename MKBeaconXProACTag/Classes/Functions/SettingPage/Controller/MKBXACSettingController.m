@@ -61,10 +61,11 @@
 
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
-//    if (self.dfuModule) {
-//        return;
-//    }
-//    [self readDatas];
+    if (self.dfuModule) {
+        return;
+    }
+    [self loadSection1Datas];
+    [self.tableView mk_reloadSection:1 withRowAnimation:UITableViewRowAnimationNone];
 }
 
 - (void)viewDidLoad {
@@ -224,6 +225,8 @@
 
 #pragma mark - section1
 - (void)loadSection1Datas {
+    [self.section1List removeAllObjects];
+    
     if ([MKBXACConnectManager shared].needPassword) {
         MKNormalTextCellModel *resetModel = [[MKNormalTextCellModel alloc] init];
         resetModel.leftMsg = @"Reset Beacon";

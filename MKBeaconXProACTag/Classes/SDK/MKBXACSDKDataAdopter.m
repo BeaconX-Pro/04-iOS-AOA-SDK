@@ -163,7 +163,8 @@
     }
     NSString *binaryValue = [@"0000" stringByAppendingString:string];
     NSString *hexValue = [MKBLEBaseSDKAdopter getHexByBinary:binaryValue];
-    return [MKBLEBaseSDKAdopter getDecimalStringWithHex:hexValue range:NSMakeRange(0, hexValue.length)];
+    NSInteger value = [MKBLEBaseSDKAdopter getDecimalWithHex:hexValue range:NSMakeRange(0, hexValue.length)];
+    return [NSString stringWithFormat:@"%ld",(long)(value * 10)];
 }
 
 /// 读取回来的txPower，转换成对应的Tx Power

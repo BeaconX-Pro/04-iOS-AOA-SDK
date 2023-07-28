@@ -116,13 +116,10 @@ mk_textSwitchCellDelegate>
 
 #pragma mark - MKBXACStaticTriggerTimeCellDelegate
 - (void)bxa_staticTriggerTimeCell_timeChanged:(NSString *)time {
-    if (index == 0) {
-        //Static trigger time
-        self.dataModel.time = time;
-        MKBXACStaticTriggerTimeCellModel *cellModel = self.section1List[0];
-        cellModel.time = time;
-        return;
-    }
+    //Static trigger time
+    self.dataModel.time = time;
+    MKBXACStaticTriggerTimeCellModel *cellModel = self.section1List[0];
+    cellModel.time = time;
 }
 
 #pragma mark - mk_textSwitchCellDelegate

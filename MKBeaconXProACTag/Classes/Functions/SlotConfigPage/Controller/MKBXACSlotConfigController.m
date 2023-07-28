@@ -54,6 +54,7 @@ MKBXACSlotConfigTriggerCellDelegate>
     [self.view registerAsDodgeViewForMLInputDodgerWithOriginalY:self.view.frame.origin.y];
     //本页面禁止右划退出手势
     self.navigationController.interactivePopGestureRecognizer.enabled = NO;
+    [self readDatasFromDevice];
 }
 
 - (void)viewWillDisappear:(BOOL)animated {
@@ -64,7 +65,7 @@ MKBXACSlotConfigTriggerCellDelegate>
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self loadSubViews];
-    [self readDatasFromDevice];
+    [self loadSectionDatas];
 }
 
 #pragma mark - super method
@@ -179,7 +180,7 @@ MKBXACSlotConfigTriggerCellDelegate>
     [self.dataModel readDataWithSucBlock:^{
         @strongify(self);
         [[MKHudManager share] hide];
-        [self loadSectionDatas];
+        [self updateValues];
     } failedBlock:^(NSError * _Nonnull error) {
         @strongify(self);
         [[MKHudManager share] hide];
@@ -201,6 +202,25 @@ MKBXACSlotConfigTriggerCellDelegate>
     }];
 }
 
+#pragma mark - updateValues
+- (void)updateValues {
+    MKBXACSlotConfigAdvCellModel *advModel = self.section0List[0];
+    advModel.advChannel = self.dataModel.advChannel;
+    advModel.advInterval = self.dataModel.advInterval;
+    advModel.advDuration = self.dataModel.advDuration;
+    advModel.standbyDuration = self.dataModel.standbyDuration;
+    advModel.advTxPower = self.dataModel.advTxPower;
+    
+    MKBXACSlotConfigTriggerCellModel *triggerModel = self.section1List[0];
+    triggerModel.trigger = self.dataModel.trigger;
+    triggerModel.triggerType = self.dataModel.triggerType;
+    triggerModel.triggerInterval = self.dataModel.triggerInterval;
+    triggerModel.triggerDuration = self.dataModel.triggerDuration;
+    triggerModel.triggerTxPower = self.dataModel.triggerTxPower;
+    
+    [self.tableView reloadData];
+}
+
 #pragma mark - loadSectionDatas
 - (void)loadSectionDatas {
     [self loadSection0Datas];
@@ -216,22 +236,12 @@ MKBXACSlotConfigTriggerCellDelegate>
 
 - (void)loadSection0Datas {
     MKBXACSlotConfigAdvCellModel *cellModel = [[MKBXACSlotConfigAdvCellModel alloc] init];
-    cellModel.advChannel = self.dataModel.advChannel;
-    cellModel.advInterval = self.dataModel.advInterval;
-    cellModel.advDuration = self.dataModel.advDuration;
-    cellModel.standbyDuration = self.dataModel.standbyDuration;
-    cellModel.advTxPower = self.dataModel.advTxPower;
     
     [self.section0List addObject:cellModel];
 }
 
 - (void)loadSection1Datas {
     MKBXACSlotConfigTriggerCellModel *cellModel = [[MKBXACSlotConfigTriggerCellModel alloc] init];
-    cellModel.trigger = self.dataModel.trigger;
-    cellModel.triggerType = self.dataModel.triggerType;
-    cellModel.triggerInterval = self.dataModel.triggerInterval;
-    cellModel.triggerDuration = self.dataModel.triggerDuration;
-    cellModel.triggerTxPower = self.dataModel.triggerTxPower;
     
     [self.section1List addObject:cellModel];
 }

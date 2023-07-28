@@ -473,7 +473,7 @@
 				GCC_PREFIX_HEADER = "MKBeaconXProACTag/MKBeaconXProACTag-Prefix.pch";
 				INFOPLIST_FILE = "MKBeaconXProACTag/MKBeaconXProACTag-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = com.moko.MKBeaconXProACTag;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -590,7 +590,7 @@
 				GCC_PREFIX_HEADER = "MKBeaconXProACTag/MKBeaconXProACTag-Prefix.pch";
 				INFOPLIST_FILE = "MKBeaconXProACTag/MKBeaconXProACTag-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = com.moko.MKBeaconXProACTag;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -610,7 +610,7 @@
 				GCC_PREFIX_HEADER = "MKBeaconXProACTag/MKBeaconXProACTag-Prefix.pch";
 				INFOPLIST_FILE = "MKBeaconXProACTag/MKBeaconXProACTag-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
-				MARKETING_VERSION = 1.0.0;
+				MARKETING_VERSION = 1.0.1;
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = com.moko.MKBeaconXProACTag;
 				PRODUCT_NAME = "$(TARGET_NAME)";
