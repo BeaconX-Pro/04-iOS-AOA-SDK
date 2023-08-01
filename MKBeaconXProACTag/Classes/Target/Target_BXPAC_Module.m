@@ -8,6 +8,12 @@
 
 #import "Target_BXPAC_Module.h"
 
+#import "MKBXACScanController.h"
+
 @implementation Target_BXPAC_Module
+
+- (UIViewController *)Action_BXAC_Module_ScanController:(NSDictionary *)params {
+    return [[MKBXACScanController alloc] init];
+}
 
 @end

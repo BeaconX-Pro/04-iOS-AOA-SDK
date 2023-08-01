@@ -12,6 +12,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Target_BXPAC_Module : NSObject
 
+/// 扫描页面
+- (UIViewController *)Action_BXAC_Module_ScanController:(NSDictionary *)params;
+
 @end
 
 NS_ASSUME_NONNULL_END
