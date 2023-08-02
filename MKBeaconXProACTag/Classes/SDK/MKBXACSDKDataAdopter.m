@@ -155,6 +155,7 @@
     if ([string isEqualToString:@"0100101"]) {
         return 12;
     }
+    return 0;
 }
 
 + (NSString *)parseAdvBattery:(NSString *)string {
