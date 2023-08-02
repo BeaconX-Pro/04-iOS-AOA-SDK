@@ -1257,23 +1257,23 @@
 		10BE816B76E0028869472F44BAC0D740 /* MKBXACTaskAdopter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBXACTaskAdopter.m; path = MKBeaconXProACTag/Classes/SDK/MKBXACTaskAdopter.m; sourceTree = "<group>"; };
 		11528E32C119F94615FBE4A07D841806 /* MKFilterDataCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKFilterDataCell.m; path = MKCustomUIModule/Classes/Cell/LoRaCell/MKFilterDataCell/MKFilterDataCell.m; sourceTree = "<group>"; };
 		117A01904CA7CF35E96AE21593FEA160 /* CTMediator+MKBXACAdd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CTMediator+MKBXACAdd.h"; path = "MKBeaconXProACTag/Classes/CTMediator/CTMediator+MKBXACAdd.h"; sourceTree = "<group>"; };
-		11A55569062D31EAAA1A19D48EEE634B /* mz_strm.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_strm.c; path = SSZipArchive/minizip/mz_strm.c; sourceTree = "<group>"; };
+		11A55569062D31EAAA1A19D48EEE634B /* mz_strm.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_strm.c; path = SSZipArchive/minizip/mz_strm.c; sourceTree = "<group>"; };
 		125E16D707E69EA8C7F874AF969E55D3 /* MKBaseBleModule.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MKBaseBleModule.debug.xcconfig; sourceTree = "<group>"; };
 		126069F3244EAC3B735965CCD55820AD /* custom.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = custom.h; path = include/xlsxwriter/custom.h; sourceTree = "<group>"; };
 		12A9F204CCFB626099548A317E65F172 /* MKBXDeviceInfoController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXDeviceInfoController.h; path = MKBeaconXCustomUI/Classes/DeviceInfoPage/Controller/MKBXDeviceInfoController.h; sourceTree = "<group>"; };
 		137AA4CD5F85F2AFA1E0A51CE7C4ECD1 /* Masonry.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Masonry.debug.xcconfig; sourceTree = "<group>"; };
 		13D80722BABC2156B203B26D3CDA6310 /* tree.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = tree.h; path = include/xlsxwriter/third_party/tree.h; sourceTree = "<group>"; };
 		144AAF7E56FA0348374A54AA88B60E3E /* app.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = app.h; path = include/xlsxwriter/app.h; sourceTree = "<group>"; };
-		145A08147B5299A5F958C60BCD5B33FE /* MKBeaconXProACTag.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MKBeaconXProACTag.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		145A08147B5299A5F958C60BCD5B33FE /* MKBeaconXProACTag.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = MKBeaconXProACTag.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		147101EFE7EAA80AB06BBA442D706688 /* UIScrollView+MLInputDodger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+MLInputDodger.h"; path = "Classes/UIScrollView+MLInputDodger.h"; sourceTree = "<group>"; };
 		14A2613501DAE2604E34BDAC6E26D7AA /* MKNormalSliderCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKNormalSliderCell.h; path = MKCustomUIModule/Classes/Cell/NormalCell/MKNormalSliderCell/MKNormalSliderCell.h; sourceTree = "<group>"; };
 		14BB9EAF879E9A0BA9ECB1A35A836119 /* MKFilterConditionCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKFilterConditionCell.h; path = MKCustomUIModule/Classes/Cell/LoRaCell/MKFilterConditionCell/MKFilterConditionCell.h; sourceTree = "<group>"; };
 		1501657489E172D44ADBA4E2AF33A49B /* MKBXACQuickSwitchController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXACQuickSwitchController.h; path = MKBeaconXProACTag/Classes/Functions/QuickSwitchPage/Controller/MKBXACQuickSwitchController.h; sourceTree = "<group>"; };
 		15C97B80B2AF782ED663844472C533E7 /* MBProgressHUD.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MBProgressHUD.release.xcconfig; sourceTree = "<group>"; };
-		15FBCEA4A7FD7D5557DA4A814A484B1E /* metadata.c */ = {isa = PBXFileReference; includeInIndex = 1; name = metadata.c; path = src/metadata.c; sourceTree = "<group>"; };
+		15FBCEA4A7FD7D5557DA4A814A484B1E /* metadata.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = metadata.c; path = src/metadata.c; sourceTree = "<group>"; };
 		168C13D2D1F8052F34E0280F0860E983 /* MJRefreshAutoNormalFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshAutoNormalFooter.h; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.h; sourceTree = "<group>"; };
 		16B07165A415906EDD41EBB3A312F810 /* mk_customUI_searchGrayIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_customUI_searchGrayIcon@2x.png"; path = "MKCustomUIModule/Assets/mk_customUI_searchGrayIcon@2x.png"; sourceTree = "<group>"; };
-		16E41ECBDCB588FD90D2657C6C457D83 /* mz_zip_rw.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_zip_rw.c; path = SSZipArchive/minizip/mz_zip_rw.c; sourceTree = "<group>"; };
+		16E41ECBDCB588FD90D2657C6C457D83 /* mz_zip_rw.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_zip_rw.c; path = SSZipArchive/minizip/mz_zip_rw.c; sourceTree = "<group>"; };
 		17623D7809827CB954766020A93A77B6 /* NSArray+MKAdd.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+MKAdd.m"; path = "MKBaseModuleLibrary/Classes/Category/NSArray+MKAdd.m"; sourceTree = "<group>"; };
 		17780E20BD1CA839BFCD027E4081099B /* MKBXACSlotConfigModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXACSlotConfigModel.h; path = MKBeaconXProACTag/Classes/Functions/SlotConfigPage/Model/MKBXACSlotConfigModel.h; sourceTree = "<group>"; };
 		178EF1BEA7945944A0D16DF3D48AD556 /* MKBeaconXProACTag-MKBeaconXProACTag */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "MKBeaconXProACTag-MKBeaconXProACTag"; path = MKBeaconXProACTag.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -1285,7 +1285,7 @@
 		18E983BE47C892EE495F34424935FFC0 /* Toast-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Toast-umbrella.h"; sourceTree = "<group>"; };
 		192053A868DDC44EBA9F264A7081D473 /* Toast-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Toast-prefix.pch"; sourceTree = "<group>"; };
 		195B4F0037CF4524B6F44544D365436B /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLayoutConstraint+MASDebugAdditions.m"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
-		195C7FF4D4DB81C3D8AFDA4CD2DB9A7A /* mz_crypt.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_crypt.c; path = SSZipArchive/minizip/mz_crypt.c; sourceTree = "<group>"; };
+		195C7FF4D4DB81C3D8AFDA4CD2DB9A7A /* mz_crypt.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_crypt.c; path = SSZipArchive/minizip/mz_crypt.c; sourceTree = "<group>"; };
 		19AD4C60A1C7BC510C60F251A14FBE30 /* bxa_about_logo@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_about_logo@2x.png"; path = "MKBeaconXProACTag/Assets/bxa_about_logo@2x.png"; sourceTree = "<group>"; };
 		19BCADB2B0CE5473D15A31FB747FFC28 /* MKBeaconXCustomUI-MKBeaconXCustomUI */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "MKBeaconXCustomUI-MKBeaconXCustomUI"; path = MKBeaconXCustomUI.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		19D58C51A897CF9EE28FC239E6A6F01D /* MKMQTTSSLCertificateView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKMQTTSSLCertificateView.h; path = MKCustomUIModule/Classes/MQTTServerView/SSL/MKMQTTSSLCertificateView.h; sourceTree = "<group>"; };
@@ -1337,7 +1337,7 @@
 		272587A0DE80EB7F6C4B8372EB17F9E8 /* MASViewAttribute.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewAttribute.m; path = Masonry/MASViewAttribute.m; sourceTree = "<group>"; };
 		28B61AF31E3A578D6905AD311B5F5B24 /* NSArray+MKAdd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSArray+MKAdd.h"; path = "MKBaseModuleLibrary/Classes/Category/NSArray+MKAdd.h"; sourceTree = "<group>"; };
 		290E4B45E47DAF34BDA9F87A383DC0A5 /* MKHaveRefreshTableView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKHaveRefreshTableView.m; path = MKCustomUIModule/Classes/View/HaveRefreshView/MKHaveRefreshTableView.m; sourceTree = "<group>"; };
-		291ED807780540EA45958B907338C377 /* table.c */ = {isa = PBXFileReference; includeInIndex = 1; name = table.c; path = src/table.c; sourceTree = "<group>"; };
+		291ED807780540EA45958B907338C377 /* table.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = table.c; path = src/table.c; sourceTree = "<group>"; };
 		297E4B9BCC38CA73B1D6104CC862A4AC /* bxa_slotAdvContent@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_slotAdvContent@3x.png"; path = "MKBeaconXProACTag/Assets/bxa_slotAdvContent@3x.png"; sourceTree = "<group>"; };
 		2A35ED8CC5154C6152072C1692988D7A /* mk_customUI_config_certAddIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_customUI_config_certAddIcon@2x.png"; path = "MKCustomUIModule/Assets/mk_customUI_config_certAddIcon@2x.png"; sourceTree = "<group>"; };
 		2A4A73F4908D229F9F3BB0194039A140 /* Toast.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Toast.modulemap; sourceTree = "<group>"; };
@@ -1386,7 +1386,7 @@
 		36C4B268CBA2F3218B1F6B014867909A /* LegacyDFUPeripheral.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LegacyDFUPeripheral.swift; path = iOSDFULibrary/Classes/Implementation/LegacyDFU/Peripherals/LegacyDFUPeripheral.swift; sourceTree = "<group>"; };
 		36E98383CA71363EB09BB0CE04CB0281 /* MJRefreshBackNormalFooter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshBackNormalFooter.h; path = MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.h; sourceTree = "<group>"; };
 		371944BE7FEF88623D18EC2D3EE8C840 /* MKBXACPeripheral.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBXACPeripheral.m; path = MKBeaconXProACTag/Classes/SDK/MKBXACPeripheral.m; sourceTree = "<group>"; };
-		37F2543C59BFAC6A0C3B3C396C46623B /* shared_strings.c */ = {isa = PBXFileReference; includeInIndex = 1; name = shared_strings.c; path = src/shared_strings.c; sourceTree = "<group>"; };
+		37F2543C59BFAC6A0C3B3C396C46623B /* shared_strings.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = shared_strings.c; path = src/shared_strings.c; sourceTree = "<group>"; };
 		37F5BDC36DCB0FC13B8C53BFD0AA62D7 /* MKBXScanInfoCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXScanInfoCell.h; path = MKBeaconXCustomUI/Classes/ScanUI/ScanCell/ScanInfoCell/MKBXScanInfoCell.h; sourceTree = "<group>"; };
 		3809D3A66D463B4A3FFA5945401C1043 /* mk_customUI_listButtonUnselectedIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_customUI_listButtonUnselectedIcon@3x.png"; path = "MKCustomUIModule/Assets/mk_customUI_listButtonUnselectedIcon@3x.png"; sourceTree = "<group>"; };
 		381EF531C759713D35A91118469786DC /* MKBXACScanController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXACScanController.h; path = MKBeaconXProACTag/Classes/Functions/ScanPage/Controller/MKBXACScanController.h; sourceTree = "<group>"; };
@@ -1398,9 +1398,9 @@
 		38BA3C3488835D445C7D31B2DDAC68A6 /* mk_bx_wifiSignalIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_bx_wifiSignalIcon@2x.png"; path = "MKBeaconXCustomUI/Assets/mk_bx_wifiSignalIcon@2x.png"; sourceTree = "<group>"; };
 		38CFAC03795C0F59C2683196324B4DDD /* HHInteractionMotionTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HHInteractionMotionTransition.m; path = HHTransition/HHInteractionMotionTransition.m; sourceTree = "<group>"; };
 		396C5B1B3A8B057C6D475616F08C7066 /* MKBXTriggerTapView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBXTriggerTapView.m; path = MKBeaconXCustomUI/Classes/SlotConfig/TriggerView/MKBXTriggerTapView.m; sourceTree = "<group>"; };
-		397739E64BF36DD64DF03001B73C0F96 /* ioapi.c */ = {isa = PBXFileReference; includeInIndex = 1; name = ioapi.c; path = third_party/minizip/ioapi.c; sourceTree = "<group>"; };
+		397739E64BF36DD64DF03001B73C0F96 /* ioapi.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = ioapi.c; path = third_party/minizip/ioapi.c; sourceTree = "<group>"; };
 		39C72B71E9CE25ADEF0AD7BD792422B6 /* Target_BXPAC_Module.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = Target_BXPAC_Module.m; path = MKBeaconXProACTag/Classes/Target/Target_BXPAC_Module.m; sourceTree = "<group>"; };
-		39F2C4909C7D4BE70B55EE4BC1D3D117 /* theme.c */ = {isa = PBXFileReference; includeInIndex = 1; name = theme.c; path = src/theme.c; sourceTree = "<group>"; };
+		39F2C4909C7D4BE70B55EE4BC1D3D117 /* theme.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = theme.c; path = src/theme.c; sourceTree = "<group>"; };
 		3A0C2D17D488CFAF0DC136473CF60724 /* mk_customUI_listButtonSelectedIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_customUI_listButtonSelectedIcon@2x.png"; path = "MKCustomUIModule/Assets/mk_customUI_listButtonSelectedIcon@2x.png"; sourceTree = "<group>"; };
 		3A5CAA48A6EECA64C05DDE4C9E502A7E /* MKMQTTGeneralParamsView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKMQTTGeneralParamsView.h; path = MKCustomUIModule/Classes/MQTTServerView/GeneralParams/MKMQTTGeneralParamsView.h; sourceTree = "<group>"; };
 		3A6526614CE77439EBD1FA28040D88CA /* bxa_littleBluePoint@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_littleBluePoint@3x.png"; path = "MKBeaconXProACTag/Assets/bxa_littleBluePoint@3x.png"; sourceTree = "<group>"; };
@@ -1414,7 +1414,7 @@
 		3CF9B2B9E08D1C7E32953208EA979854 /* UIColor+MKAdd.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIColor+MKAdd.m"; path = "MKBaseModuleLibrary/Classes/Category/UIColor+MKAdd.m"; sourceTree = "<group>"; };
 		3D1E9413FA3797F697903C542C7A5807 /* mz_strm_split.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = mz_strm_split.h; path = SSZipArchive/minizip/mz_strm_split.h; sourceTree = "<group>"; };
 		3D4993E2AF1BEB51BD81C20363043AEB /* MKBeaconXProACTag-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MKBeaconXProACTag-umbrella.h"; sourceTree = "<group>"; };
-		3DF3318AE8F231D2BAEB533C79D8AE0D /* format.c */ = {isa = PBXFileReference; includeInIndex = 1; name = format.c; path = src/format.c; sourceTree = "<group>"; };
+		3DF3318AE8F231D2BAEB533C79D8AE0D /* format.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = format.c; path = src/format.c; sourceTree = "<group>"; };
 		3E948CF9A75FC41AA97FA4D2CA0CE2A0 /* MJRefreshTrailer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshTrailer.m; path = MJRefresh/Base/MJRefreshTrailer.m; sourceTree = "<group>"; };
 		3EB875114A4233D0BDEED86C223139E4 /* MKBeaconXCustomUI-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MKBeaconXCustomUI-prefix.pch"; sourceTree = "<group>"; };
 		3EDF073B39EE352E9F3ACF778A3459E9 /* NSData+MKAdd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSData+MKAdd.h"; path = "MKBaseModuleLibrary/Classes/Category/NSData+MKAdd.h"; sourceTree = "<group>"; };
@@ -1446,13 +1446,13 @@
 		491ADAEADF7137A8A08D130946B9F5E3 /* DFUController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DFUController.swift; path = iOSDFULibrary/Classes/Implementation/GenericDFU/DFUController.swift; sourceTree = "<group>"; };
 		495827B9B79C9E347FCF7E3A6FC5E07C /* bxa_signalIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_signalIcon@3x.png"; path = "MKBeaconXProACTag/Assets/bxa_signalIcon@3x.png"; sourceTree = "<group>"; };
 		495DBF7CB56E517C8688556F866620D9 /* bxa_batteryHighest@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_batteryHighest@2x.png"; path = "MKBeaconXProACTag/Assets/bxa_batteryHighest@2x.png"; sourceTree = "<group>"; };
-		499C160E20C244D0B531FBCCAF2D8554 /* hash_table.c */ = {isa = PBXFileReference; includeInIndex = 1; name = hash_table.c; path = src/hash_table.c; sourceTree = "<group>"; };
+		499C160E20C244D0B531FBCCAF2D8554 /* hash_table.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = hash_table.c; path = src/hash_table.c; sourceTree = "<group>"; };
 		49E96037747B1B81A922420A1944B768 /* bxa_aboutBottomIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_aboutBottomIcon@2x.png"; path = "MKBeaconXProACTag/Assets/bxa_aboutBottomIcon@2x.png"; sourceTree = "<group>"; };
 		4A1AF9B0926FD9B597D4EB1067051B87 /* DFUPeripheral.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DFUPeripheral.swift; path = iOSDFULibrary/Classes/Implementation/GenericDFU/DFUPeripheral.swift; sourceTree = "<group>"; };
 		4A35E0A04FFCEBB5178D61FFFA0A360D /* bxa_wifiGraySignalIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_wifiGraySignalIcon@2x.png"; path = "MKBeaconXProACTag/Assets/bxa_wifiGraySignalIcon@2x.png"; sourceTree = "<group>"; };
 		4A9960A3E34DD90DCDBDCF277012DAAB /* MKBXSlotConfigURLCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXSlotConfigURLCell.h; path = MKBeaconXCustomUI/Classes/SlotConfig/SlotConfigCell/URLCell/MKBXSlotConfigURLCell.h; sourceTree = "<group>"; };
-		4AB3E12653CB989D948095F45C44DA5E /* mz_strm_buf.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_strm_buf.c; path = SSZipArchive/minizip/mz_strm_buf.c; sourceTree = "<group>"; };
-		4AF203E53BB7531581357F7A42E85E78 /* mz_zip.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_zip.c; path = SSZipArchive/minizip/mz_zip.c; sourceTree = "<group>"; };
+		4AB3E12653CB989D948095F45C44DA5E /* mz_strm_buf.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_strm_buf.c; path = SSZipArchive/minizip/mz_strm_buf.c; sourceTree = "<group>"; };
+		4AF203E53BB7531581357F7A42E85E78 /* mz_zip.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_zip.c; path = SSZipArchive/minizip/mz_zip.c; sourceTree = "<group>"; };
 		4B3CEDA33F560F88EABEC1C1116CBE74 /* CircleProgressBar.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CircleProgressBar.debug.xcconfig; sourceTree = "<group>"; };
 		4BA1322986ABCF11513CDB993C7974CE /* MLInputDodgerRetractView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MLInputDodgerRetractView.m; path = Classes/MLInputDodgerRetractView.m; sourceTree = "<group>"; };
 		4C495FC23F337F9D903368CFF76C1F11 /* WRNavigationBar.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = WRNavigationBar.modulemap; sourceTree = "<group>"; };
@@ -1461,8 +1461,8 @@
 		4CDEC3823DB7B555F9E7356886F0F783 /* mk_bx_littleBluePoint@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_bx_littleBluePoint@2x.png"; path = "MKBeaconXCustomUI/Assets/mk_bx_littleBluePoint@2x.png"; sourceTree = "<group>"; };
 		4D43A3068F722BA0E1EA6F7AC5F2C8AA /* mz_strm_pkcrypt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = mz_strm_pkcrypt.h; path = SSZipArchive/minizip/mz_strm_pkcrypt.h; sourceTree = "<group>"; };
 		4D63C3C1F5FB0A5B28C464E5807EBCFF /* MKBaseModule.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBaseModule.h; path = MKBaseModuleLibrary/Classes/MKBaseModule.h; sourceTree = "<group>"; };
-		4D8749C6670CDBAA31CD656CF639847A /* workbook.c */ = {isa = PBXFileReference; includeInIndex = 1; name = workbook.c; path = src/workbook.c; sourceTree = "<group>"; };
-		4DAEFEEA1D299F4BF656DEC929E0A3A8 /* zip.c */ = {isa = PBXFileReference; includeInIndex = 1; name = zip.c; path = third_party/minizip/zip.c; sourceTree = "<group>"; };
+		4D8749C6670CDBAA31CD656CF639847A /* workbook.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = workbook.c; path = src/workbook.c; sourceTree = "<group>"; };
+		4DAEFEEA1D299F4BF656DEC929E0A3A8 /* zip.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = zip.c; path = third_party/minizip/zip.c; sourceTree = "<group>"; };
 		4DDE8CEA33055343226976F30351F3A8 /* bxa_deviceTabBarItemSelected@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_deviceTabBarItemSelected@2x.png"; path = "MKBeaconXProACTag/Assets/bxa_deviceTabBarItemSelected@2x.png"; sourceTree = "<group>"; };
 		4E1E57EFD1AE835E1CF6ABCEAD4724B0 /* MKBeaconXCustomUI */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MKBeaconXCustomUI; path = MKBeaconXCustomUI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E79BC73D2E9CE33AE5111C551A80211 /* HHPresentCircleTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HHPresentCircleTransition.m; path = HHTransition/HHPresentCircleTransition.m; sourceTree = "<group>"; };
@@ -1533,11 +1533,11 @@
 		613D36247E6AF9D64B64F7E32165487E /* mk_customUI_keyboardDelIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_customUI_keyboardDelIcon@2x.png"; path = "MKCustomUIModule/Assets/mk_customUI_keyboardDelIcon@2x.png"; sourceTree = "<group>"; };
 		6148B9808E104F9AF0AA114D27BA26CF /* MKBXACInterface+MKBXACConfig.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "MKBXACInterface+MKBXACConfig.m"; path = "MKBeaconXProACTag/Classes/SDK/MKBXACInterface+MKBXACConfig.m"; sourceTree = "<group>"; };
 		616EC3EC2440541A668987F9906661BA /* mk_customUI_wifisignalIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_customUI_wifisignalIcon@2x.png"; path = "MKCustomUIModule/Assets/mk_customUI_wifisignalIcon@2x.png"; sourceTree = "<group>"; };
-		61B8EFA023B322B36F26DA1FBD0112F1 /* mz_strm_wzaes.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_strm_wzaes.c; path = SSZipArchive/minizip/mz_strm_wzaes.c; sourceTree = "<group>"; };
+		61B8EFA023B322B36F26DA1FBD0112F1 /* mz_strm_wzaes.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_strm_wzaes.c; path = SSZipArchive/minizip/mz_strm_wzaes.c; sourceTree = "<group>"; };
 		61DFAE2097E03BCC008E423BCCE849FB /* NSData+MKAdd.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSData+MKAdd.m"; path = "MKBaseModuleLibrary/Classes/Category/NSData+MKAdd.m"; sourceTree = "<group>"; };
 		62ACDA8A3C8254F878A7B77A01CE8F56 /* MKButtonMsgCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKButtonMsgCell.m; path = MKCustomUIModule/Classes/Cell/NormalCell/MKButtonMsgCell/MKButtonMsgCell.m; sourceTree = "<group>"; };
 		62CB634F8FE1BD48FE8EDC9CFEBADE5A /* MKAboutCellModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKAboutCellModel.h; path = MKCustomUIModule/Classes/Controller/MKAboutPage/Model/MKAboutCellModel.h; sourceTree = "<group>"; };
-		62F27E4A28923242D1886A5B70AF180E /* md5.c */ = {isa = PBXFileReference; includeInIndex = 1; name = md5.c; path = third_party/md5/md5.c; sourceTree = "<group>"; };
+		62F27E4A28923242D1886A5B70AF180E /* md5.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = md5.c; path = third_party/md5/md5.c; sourceTree = "<group>"; };
 		631B94732646D898BD8CF4BC27CC1FF3 /* NirKxMenu.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NirKxMenu.m; path = MKCustomUIModule/Classes/View/NirKxMenu/NirKxMenu.m; sourceTree = "<group>"; };
 		63627A2FA11F09D8069E3BAF791B6398 /* MJRefreshAutoGifFooter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshAutoGifFooter.m; path = MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.m; sourceTree = "<group>"; };
 		63A7A3CA27082AEB5CF17023BEE72214 /* MKHudManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKHudManager.m; path = MKCustomUIModule/Classes/View/MKHudManager/MKHudManager.m; sourceTree = "<group>"; };
@@ -1548,13 +1548,13 @@
 		64F7A8E1AF0068ABFC3E1BF64B80252D /* MKBLEBaseCentralManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBLEBaseCentralManager.h; path = MKBaseBleModule/Classes/MKBLEBaseCentralManager.h; sourceTree = "<group>"; };
 		6533C5DA89615D3262BD54AB0B6039FD /* NSDictionary+MKAdd.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSDictionary+MKAdd.m"; path = "MKBaseModuleLibrary/Classes/Category/NSDictionary+MKAdd.m"; sourceTree = "<group>"; };
 		65395A13E4AB65C05BFD13ABA6A2ACD4 /* MKBXSlotConfigInfoCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBXSlotConfigInfoCell.m; path = MKBeaconXCustomUI/Classes/SlotConfig/SlotConfigCell/DeviceInfoCell/MKBXSlotConfigInfoCell.m; sourceTree = "<group>"; };
-		654970670A96B3CBF1280C880B90CDC7 /* relationships.c */ = {isa = PBXFileReference; includeInIndex = 1; name = relationships.c; path = src/relationships.c; sourceTree = "<group>"; };
+		654970670A96B3CBF1280C880B90CDC7 /* relationships.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = relationships.c; path = src/relationships.c; sourceTree = "<group>"; };
 		6568B970656CFC551651EEE99C1F74F3 /* Entry.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Entry.swift; path = Sources/ZIPFoundation/Entry.swift; sourceTree = "<group>"; };
 		65DD0FE8FBDD297F8A1A6C47F16202CA /* bxa_slot_baseParams@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_slot_baseParams@3x.png"; path = "MKBeaconXProACTag/Assets/bxa_slot_baseParams@3x.png"; sourceTree = "<group>"; };
 		660D2FB83625693667721BB61E158792 /* MKBXACConnectManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXACConnectManager.h; path = MKBeaconXProACTag/Classes/ConnectManager/MKBXACConnectManager.h; sourceTree = "<group>"; };
 		6659A240B4086764226B1AB94A603877 /* MLInputDodger-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MLInputDodger-umbrella.h"; sourceTree = "<group>"; };
 		66DAD36B4881B8F89E7F5FE368E5DBFF /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/QuartzCore.framework; sourceTree = DEVELOPER_DIR; };
-		6705E86CE91732F2046D23C9D38089C9 /* chartsheet.c */ = {isa = PBXFileReference; includeInIndex = 1; name = chartsheet.c; path = src/chartsheet.c; sourceTree = "<group>"; };
+		6705E86CE91732F2046D23C9D38089C9 /* chartsheet.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = chartsheet.c; path = src/chartsheet.c; sourceTree = "<group>"; };
 		6735D7FEF7ECC4AD47446AB53ADC3961 /* MKBXSlotConfigCellProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXSlotConfigCellProtocol.h; path = MKBeaconXCustomUI/Classes/SlotConfig/Protocol/MKBXSlotConfigCellProtocol.h; sourceTree = "<group>"; };
 		67E89915824328546752F4791341E688 /* MKAlertController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKAlertController.h; path = MKCustomUIModule/Classes/Controller/MKAlertController/MKAlertController.h; sourceTree = "<group>"; };
 		67EE8E072B5C03B673E961FECECE7005 /* vml.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = vml.h; path = include/xlsxwriter/vml.h; sourceTree = "<group>"; };
@@ -1562,8 +1562,8 @@
 		686A439C2E397C24CEF914C13B23E1A3 /* MKBXACAccelerationModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBXACAccelerationModel.m; path = MKBeaconXProACTag/Classes/Functions/AccelerationPage/Model/MKBXACAccelerationModel.m; sourceTree = "<group>"; };
 		68FD71EBA2CC98523D3AACCE8A0D43C8 /* CTMediator */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = CTMediator; path = CTMediator.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		69276220C2F783955A0EF37996544DBC /* mk_customUI_shouceIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_customUI_shouceIcon@2x.png"; path = "MKCustomUIModule/Assets/mk_customUI_shouceIcon@2x.png"; sourceTree = "<group>"; };
-		69366005B3BBA419E3BD242FB1079566 /* mz_strm_pkcrypt.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_strm_pkcrypt.c; path = SSZipArchive/minizip/mz_strm_pkcrypt.c; sourceTree = "<group>"; };
-		693A0A8208652EFFE8FD0486E1FEBED1 /* mz_crypt_apple.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_crypt_apple.c; path = SSZipArchive/minizip/mz_crypt_apple.c; sourceTree = "<group>"; };
+		69366005B3BBA419E3BD242FB1079566 /* mz_strm_pkcrypt.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_strm_pkcrypt.c; path = SSZipArchive/minizip/mz_strm_pkcrypt.c; sourceTree = "<group>"; };
+		693A0A8208652EFFE8FD0486E1FEBED1 /* mz_crypt_apple.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_crypt_apple.c; path = SSZipArchive/minizip/mz_crypt_apple.c; sourceTree = "<group>"; };
 		693BBA6FD8A649B2A21A1334CEC23FA8 /* MKBaseBleModule-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MKBaseBleModule-umbrella.h"; sourceTree = "<group>"; };
 		6975F37DEBF68249CCD028E58D5281AD /* MLInputDodger-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MLInputDodger-Info.plist"; sourceTree = "<group>"; };
 		698D08C9B624111F063E2E221BE6CF67 /* MKTableSectionLineHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKTableSectionLineHeader.h; path = MKCustomUIModule/Classes/View/MKTableSectionHeader/MKTableSectionLineHeader.h; sourceTree = "<group>"; };
@@ -1580,7 +1580,7 @@
 		6CA637D7539074838B94DDBD7BC77D13 /* mk_bx_clearButtonIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_bx_clearButtonIcon@3x.png"; path = "MKBeaconXCustomUI/Assets/mk_bx_clearButtonIcon@3x.png"; sourceTree = "<group>"; };
 		6CAC59FBA03BE9D7BF8BB17F68C9F329 /* bxa_aboutBottomIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_aboutBottomIcon@3x.png"; path = "MKBeaconXProACTag/Assets/bxa_aboutBottomIcon@3x.png"; sourceTree = "<group>"; };
 		6D0BCFCA2EB0D2A35FCA627AE6C1B0E5 /* MLInputDodger.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MLInputDodger.release.xcconfig; sourceTree = "<group>"; };
-		6D26878DC9505400BB02636A87380FCB /* vml.c */ = {isa = PBXFileReference; includeInIndex = 1; name = vml.c; path = src/vml.c; sourceTree = "<group>"; };
+		6D26878DC9505400BB02636A87380FCB /* vml.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = vml.c; path = src/vml.c; sourceTree = "<group>"; };
 		6D4CDEC20DA59633FCA047295EBE2F92 /* MKBXScanInfoCellProtocol.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXScanInfoCellProtocol.h; path = MKBeaconXCustomUI/Classes/ScanUI/ScanCell/ScanInfoCell/MKBXScanInfoCellProtocol.h; sourceTree = "<group>"; };
 		6D9325AF328C12104FA4086E2BBDE832 /* mk_customUI_addIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_customUI_addIcon@2x.png"; path = "MKCustomUIModule/Assets/mk_customUI_addIcon@2x.png"; sourceTree = "<group>"; };
 		6DED1D8CF5A05A4AE2A3266038B508B7 /* UICollectionViewLayout+MJRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UICollectionViewLayout+MJRefresh.h"; path = "MJRefresh/UICollectionViewLayout+MJRefresh.h"; sourceTree = "<group>"; };
@@ -1596,7 +1596,7 @@
 		7108BC4B911FD86A11BC70129E539949 /* MKBaseNavigationController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBaseNavigationController.h; path = MKBaseModuleLibrary/Classes/Base/NavigationController/MKBaseNavigationController.h; sourceTree = "<group>"; };
 		7148814CAE2C68F8926475115FB41B06 /* MKBaseBleModule-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MKBaseBleModule-Info.plist"; sourceTree = "<group>"; };
 		71F473D233728234E7F43E81AB9FF355 /* UIScrollView+MJExtension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIScrollView+MJExtension.h"; path = "MJRefresh/UIScrollView+MJExtension.h"; sourceTree = "<group>"; };
-		720C11ECE008B8635B1EF9AC5B21DE79 /* mz_strm_split.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_strm_split.c; path = SSZipArchive/minizip/mz_strm_split.c; sourceTree = "<group>"; };
+		720C11ECE008B8635B1EF9AC5B21DE79 /* mz_strm_split.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_strm_split.c; path = SSZipArchive/minizip/mz_strm_split.c; sourceTree = "<group>"; };
 		732C42BCE57DC3D6072717FF5C017AD3 /* MKSearchButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKSearchButton.h; path = MKCustomUIModule/Classes/View/MKSearchButton/MKSearchButton.h; sourceTree = "<group>"; };
 		7332709F604BD8F68619B49DD03840C7 /* Data.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Data.swift; path = iOSDFULibrary/Classes/Utilities/Data.swift; sourceTree = "<group>"; };
 		73400C605128B85407C17EEC8164CAB7 /* bxa_switchSelectedIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_switchSelectedIcon@3x.png"; path = "MKBeaconXProACTag/Assets/bxa_switchSelectedIcon@3x.png"; sourceTree = "<group>"; };
@@ -1694,7 +1694,7 @@
 		8DBAD2B981A22FD2241E48E156A67018 /* MLInputDodger.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MLInputDodger.modulemap; sourceTree = "<group>"; };
 		8EBAA176238221A67D9C8E48CC4D2431 /* UIViewController+HHTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+HHTransition.m"; path = "HHTransition/UIViewController+HHTransition.m"; sourceTree = "<group>"; };
 		8ED4EC1D15D8B7831F7F2378B0A87C11 /* MKBXScanUIDCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBXScanUIDCell.m; path = MKBeaconXCustomUI/Classes/ScanUI/ScanCell/ScanUIDCell/MKBXScanUIDCell.m; sourceTree = "<group>"; };
-		8ED6D62352E98C6865DD426347EFBE44 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		8ED6D62352E98C6865DD426347EFBE44 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		8EE54A23EEFF1666D181E916BF20A9A5 /* MKBXQuickSwitchCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBXQuickSwitchCell.m; path = MKBeaconXCustomUI/Classes/QuickSwitchCell/MKBXQuickSwitchCell.m; sourceTree = "<group>"; };
 		8FA15E15F498F796E82B8E9EB5D328A8 /* Toast.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Toast.release.xcconfig; sourceTree = "<group>"; };
 		9058CA55E109F0CAC214EA95B5E83B24 /* MKBXACOperationID.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXACOperationID.h; path = MKBeaconXProACTag/Classes/SDK/MKBXACOperationID.h; sourceTree = "<group>"; };
@@ -1708,7 +1708,7 @@
 		950D6344E0205C505CE2468C44317F22 /* relationships.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = relationships.h; path = include/xlsxwriter/relationships.h; sourceTree = "<group>"; };
 		952271BC48A8FDC5442D654BD6D05C3B /* WRNavigationBar-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WRNavigationBar-umbrella.h"; sourceTree = "<group>"; };
 		9555E57567C32B3357DF3E8322E3D08C /* MKBeaconXCustomUI.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MKBeaconXCustomUI.debug.xcconfig; sourceTree = "<group>"; };
-		9561008F83A95C03E7151716723692F7 /* tmpfileplus.c */ = {isa = PBXFileReference; includeInIndex = 1; name = tmpfileplus.c; path = third_party/tmpfileplus/tmpfileplus.c; sourceTree = "<group>"; };
+		9561008F83A95C03E7151716723692F7 /* tmpfileplus.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = tmpfileplus.c; path = third_party/tmpfileplus/tmpfileplus.c; sourceTree = "<group>"; };
 		95786F9060A7C66A981134654630DAD2 /* MKBaseBleModule.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MKBaseBleModule.release.xcconfig; sourceTree = "<group>"; };
 		95A35EA97547DB5447719E12C67284DA /* MKExcelWookbook.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKExcelWookbook.m; path = MKBaseModuleLibrary/Classes/Tools/MKExcelManager/MKExcelWookbook.m; sourceTree = "<group>"; };
 		95B40B1C14007B7E4E123CD93624D624 /* MKMQTTUserCredentialsView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKMQTTUserCredentialsView.h; path = MKCustomUIModule/Classes/MQTTServerView/UserCredentials/MKMQTTUserCredentialsView.h; sourceTree = "<group>"; };
@@ -1725,23 +1725,23 @@
 		99F59D8A5E255CE561F652330B10C702 /* MKBeaconXProACTag-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MKBeaconXProACTag-prefix.pch"; sourceTree = "<group>"; };
 		9A069DE788AFD9DCDAAAB705634BC5EB /* bxa_scan_refreshIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_scan_refreshIcon@3x.png"; path = "MKBeaconXProACTag/Assets/bxa_scan_refreshIcon@3x.png"; sourceTree = "<group>"; };
 		9A10B16E4BDE64F05A3B0773EE95560B /* MKBaseTableView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBaseTableView.m; path = MKBaseModuleLibrary/Classes/Base/View/tableView/MKBaseTableView.m; sourceTree = "<group>"; };
-		9A1E9AD113BA1BAFDD91EC770FF0450A /* custom.c */ = {isa = PBXFileReference; includeInIndex = 1; name = custom.c; path = src/custom.c; sourceTree = "<group>"; };
+		9A1E9AD113BA1BAFDD91EC770FF0450A /* custom.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = custom.c; path = src/custom.c; sourceTree = "<group>"; };
 		9A872FF07BF6B6039323AD0BC4A238A4 /* bxa_slotConfigUnselectedIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_slotConfigUnselectedIcon@2x.png"; path = "MKBeaconXProACTag/Assets/bxa_slotConfigUnselectedIcon@2x.png"; sourceTree = "<group>"; };
 		9AA55BEC55ED166218EDEAAFA5E5AE7F /* DFUUuidHelper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DFUUuidHelper.swift; path = iOSDFULibrary/Classes/Implementation/DFUUuidHelper.swift; sourceTree = "<group>"; };
 		9ACD8E19821C4675761C28CBA757B27B /* MKDateFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKDateFormatter.m; path = MKBaseModuleLibrary/Classes/Tools/MKDateFormatter/MKDateFormatter.m; sourceTree = "<group>"; };
 		9B56E5B061C0EA50FA5FEBE016D4AB9E /* MKBaseTableView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBaseTableView.h; path = MKBaseModuleLibrary/Classes/Base/View/tableView/MKBaseTableView.h; sourceTree = "<group>"; };
 		9B66EFC35EB15DAA7EBFB7435EB2D050 /* mk_customUI_subIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_customUI_subIcon@2x.png"; path = "MKCustomUIModule/Assets/mk_customUI_subIcon@2x.png"; sourceTree = "<group>"; };
 		9B86C1D001CA9167CBA4D1775444CD74 /* MKBXScanFilterView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXScanFilterView.h; path = MKBeaconXCustomUI/Classes/ScanUI/ScanFilterView/MKBXScanFilterView.h; sourceTree = "<group>"; };
-		9B92AC108996C2F7569367A95F3ED30E /* styles.c */ = {isa = PBXFileReference; includeInIndex = 1; name = styles.c; path = src/styles.c; sourceTree = "<group>"; };
+		9B92AC108996C2F7569367A95F3ED30E /* styles.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = styles.c; path = src/styles.c; sourceTree = "<group>"; };
 		9BD568D8E7D8993E30F430C1F0F722EA /* DFUVersion.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DFUVersion.swift; path = iOSDFULibrary/Classes/Implementation/LegacyDFU/Characteristics/DFUVersion.swift; sourceTree = "<group>"; };
 		9C55667E21E9469A6A885C0E31EA4B7D /* libxlsxwriter */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = libxlsxwriter; path = xlsxwriter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C6B81D8F860C4D9664E4CFD41938F12 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASShorthandAdditions.h"; path = "Masonry/View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
 		9D015C929515195EC5B761A23BEE04A8 /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+MASAdditions.m"; path = "Masonry/NSArray+MASAdditions.m"; sourceTree = "<group>"; };
 		9D2691CFED65938E5C97119EDA412ED4 /* UITextField+MKAdd.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UITextField+MKAdd.m"; path = "MKBaseModuleLibrary/Classes/Category/UITextField+MKAdd.m"; sourceTree = "<group>"; };
-		9D56BCB100002153C4EF670F46C33944 /* content_types.c */ = {isa = PBXFileReference; includeInIndex = 1; name = content_types.c; path = src/content_types.c; sourceTree = "<group>"; };
+		9D56BCB100002153C4EF670F46C33944 /* content_types.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = content_types.c; path = src/content_types.c; sourceTree = "<group>"; };
 		9D62ED055FAE94D3996FDB8A658C1C3A /* HHPresentFlipTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HHPresentFlipTransition.m; path = HHTransition/HHPresentFlipTransition.m; sourceTree = "<group>"; };
 		9D9369850FC3A631C64550CAE3CC77DC /* MKProgressView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKProgressView.m; path = MKCustomUIModule/Classes/View/MKProgressView/MKProgressView.m; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9D9863F62198DEAFF791CB4448061CC7 /* MKBXACSDK.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXACSDK.h; path = MKBeaconXProACTag/Classes/SDK/MKBXACSDK.h; sourceTree = "<group>"; };
 		9DDDF5628794745BFCD547AD35429756 /* FileManager+ZIP.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FileManager+ZIP.swift"; path = "Sources/ZIPFoundation/FileManager+ZIP.swift"; sourceTree = "<group>"; };
 		9E9A4CD6690A97BC0E7E36736B509466 /* bxa_slotSaveIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_slotSaveIcon@2x.png"; path = "MKBeaconXProACTag/Assets/bxa_slotSaveIcon@2x.png"; sourceTree = "<group>"; };
@@ -1752,7 +1752,7 @@
 		A0B04255A686462108977E1BD4F89362 /* MKBeaconXProACTag.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MKBeaconXProACTag.debug.xcconfig; sourceTree = "<group>"; };
 		A0D414BDB29B2F2B7E13C135FA43A2F2 /* MKBXACDeviceInfoController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXACDeviceInfoController.h; path = MKBeaconXProACTag/Classes/Functions/DeviceInfoPage/Controller/MKBXACDeviceInfoController.h; sourceTree = "<group>"; };
 		A14D3CEDC962EB33BF690DE3CBD0A131 /* mz_strm.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = mz_strm.h; path = SSZipArchive/minizip/mz_strm.h; sourceTree = "<group>"; };
-		A15DF9A1E3B13ED6E24B99F3A49DE11A /* drawing.c */ = {isa = PBXFileReference; includeInIndex = 1; name = drawing.c; path = src/drawing.c; sourceTree = "<group>"; };
+		A15DF9A1E3B13ED6E24B99F3A49DE11A /* drawing.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = drawing.c; path = src/drawing.c; sourceTree = "<group>"; };
 		A16176015B068957CE7349FFD11D67BA /* shared_strings.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = shared_strings.h; path = include/xlsxwriter/shared_strings.h; sourceTree = "<group>"; };
 		A1B5E8149543C54171CF411D0CB7D293 /* MKTrackerLogController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKTrackerLogController.h; path = MKCustomUIModule/Classes/Controller/MKTrackerLogPage/Controller/MKTrackerLogController.h; sourceTree = "<group>"; };
 		A21B7F617AC1C4A64FF59FAA1F47B5BE /* UIImage+MKAdd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+MKAdd.h"; path = "MKBaseModuleLibrary/Classes/Category/UIImage+MKAdd.h"; sourceTree = "<group>"; };
@@ -1764,26 +1764,26 @@
 		A3481538F0445105F8039F3DF5A70782 /* SecureDFUControlPoint.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SecureDFUControlPoint.swift; path = iOSDFULibrary/Classes/Implementation/SecureDFU/Characteristics/SecureDFUControlPoint.swift; sourceTree = "<group>"; };
 		A3C1C4D6274D3E4066B59153A3006CD9 /* bxa_slotTabBarItemUnselected@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_slotTabBarItemUnselected@2x.png"; path = "MKBeaconXProACTag/Assets/bxa_slotTabBarItemUnselected@2x.png"; sourceTree = "<group>"; };
 		A3E7190BA07B546C236972C967C9118B /* LegacyDFUServiceInitiator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LegacyDFUServiceInitiator.swift; path = iOSDFULibrary/Classes/Implementation/LegacyDFU/DFU/LegacyDFUServiceInitiator.swift; sourceTree = "<group>"; };
-		A3E8D718737E6AF7D62EC57C32A6011C /* mz_strm_os_posix.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_strm_os_posix.c; path = SSZipArchive/minizip/mz_strm_os_posix.c; sourceTree = "<group>"; };
+		A3E8D718737E6AF7D62EC57C32A6011C /* mz_strm_os_posix.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_strm_os_posix.c; path = SSZipArchive/minizip/mz_strm_os_posix.c; sourceTree = "<group>"; };
 		A44F65C012C599AF8FC517F6A8F47F97 /* HHBaseAnimatedTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HHBaseAnimatedTransition.m; path = HHTransition/HHBaseAnimatedTransition.m; sourceTree = "<group>"; };
 		A4AF83B90493EF9FE68736A8C07EEFD7 /* MJRefresh-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MJRefresh-umbrella.h"; sourceTree = "<group>"; };
-		A4ED1444A77B08F3D88A4729E9C13A2C /* mz_compat.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_compat.c; path = SSZipArchive/minizip/mz_compat.c; sourceTree = "<group>"; };
+		A4ED1444A77B08F3D88A4729E9C13A2C /* mz_compat.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_compat.c; path = SSZipArchive/minizip/mz_compat.c; sourceTree = "<group>"; };
 		A51A18F31FB6CF9528C7ED2EF0E15855 /* MKNormalTextCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKNormalTextCell.m; path = MKCustomUIModule/Classes/Cell/NormalCell/MKNormalTextCell/MKNormalTextCell.m; sourceTree = "<group>"; };
 		A5704A0395BA6AE3C7558F30F23CB1A2 /* CBPeripheral+MKBXACAdd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CBPeripheral+MKBXACAdd.h"; path = "MKBeaconXProACTag/Classes/SDK/CBPeripheral+MKBXACAdd.h"; sourceTree = "<group>"; };
 		A594BF9F843184EE63A70516B8CAC7CE /* MKBXScanURLCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBXScanURLCell.m; path = MKBeaconXCustomUI/Classes/ScanUI/ScanCell/ScanURLCell/MKBXScanURLCell.m; sourceTree = "<group>"; };
-		A5A263F70E41E1248AF7DA639476DE03 /* mz_os.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_os.c; path = SSZipArchive/minizip/mz_os.c; sourceTree = "<group>"; };
+		A5A263F70E41E1248AF7DA639476DE03 /* mz_os.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_os.c; path = SSZipArchive/minizip/mz_os.c; sourceTree = "<group>"; };
 		A62EF7671BF7A71A73770849F1CDFBE2 /* UIView+MLInputDodger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+MLInputDodger.m"; path = "Classes/UIView+MLInputDodger.m"; sourceTree = "<group>"; };
 		A687CFA9D8C9E44211EF76AEC0201DC5 /* bxa_slotFrameType@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_slotFrameType@3x.png"; path = "MKBeaconXProACTag/Assets/bxa_slotFrameType@3x.png"; sourceTree = "<group>"; };
 		A6CD6D64688A98CF39025D9C967FDEDE /* mk_bx_wifiGraySignalIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_bx_wifiGraySignalIcon@2x.png"; path = "MKBeaconXCustomUI/Assets/mk_bx_wifiGraySignalIcon@2x.png"; sourceTree = "<group>"; };
 		A6F10D61908666EEEE3FD3C26BCAF0DD /* mk_customUI_clearButtonIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_customUI_clearButtonIcon@2x.png"; path = "MKCustomUIModule/Assets/mk_customUI_clearButtonIcon@2x.png"; sourceTree = "<group>"; };
 		A7062255C67531A6169F8D79E0D184DF /* MASConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASConstraint.h; path = Masonry/MASConstraint.h; sourceTree = "<group>"; };
-		A7938F7B11A55C5846D7B84E090CA929 /* xmlwriter.c */ = {isa = PBXFileReference; includeInIndex = 1; name = xmlwriter.c; path = src/xmlwriter.c; sourceTree = "<group>"; };
+		A7938F7B11A55C5846D7B84E090CA929 /* xmlwriter.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = xmlwriter.c; path = src/xmlwriter.c; sourceTree = "<group>"; };
 		A79CCA1FE38BD48005F60FDE37EFCE40 /* iOSDFULibrary.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = iOSDFULibrary.modulemap; sourceTree = "<group>"; };
 		A840ED54D3BD3B8AA9964BD4DCC0666B /* UIButton+MKAdd.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+MKAdd.m"; path = "MKBaseModuleLibrary/Classes/Category/UIButton+MKAdd.m"; sourceTree = "<group>"; };
 		A878FDC73D210E3BC828AF5F2B5CDBF2 /* NSNumber+MKAdd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSNumber+MKAdd.h"; path = "MKBaseModuleLibrary/Classes/Category/NSNumber+MKAdd.h"; sourceTree = "<group>"; };
 		A87B4A0FD0E4ADF0A78F3AA36FF47B1C /* MJRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefresh.h; path = MJRefresh/MJRefresh.h; sourceTree = "<group>"; };
 		A885A1A48382820E5EBB564EB33422FD /* MKBLEBaseSDKAdopter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBLEBaseSDKAdopter.m; path = MKBaseBleModule/Classes/MKBLEBaseSDKAdopter.m; sourceTree = "<group>"; };
-		A8D2DED4FE285CEBA4564A8D638C19B7 /* app.c */ = {isa = PBXFileReference; includeInIndex = 1; name = app.c; path = src/app.c; sourceTree = "<group>"; };
+		A8D2DED4FE285CEBA4564A8D638C19B7 /* app.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = app.c; path = src/app.c; sourceTree = "<group>"; };
 		A8EAF2406759BCB292099A569BDB08AB /* WRNavigationBar.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WRNavigationBar.release.xcconfig; sourceTree = "<group>"; };
 		A9300DBA1C8C4E871CE00AD6FE3ECDDD /* navigation_back_button_white@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "navigation_back_button_white@2x.png"; path = "MKBaseModuleLibrary/Assets/navigation_back_button_white@2x.png"; sourceTree = "<group>"; };
 		A95D0CD89CF4E0583A0F4859722AD569 /* iOSDFULibrary-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "iOSDFULibrary-dummy.m"; sourceTree = "<group>"; };
@@ -1827,7 +1827,7 @@
 		B354C4D4C8DCC5F58235DBF12F5DFCF5 /* MKBXSlotConfigTriggerCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBXSlotConfigTriggerCell.m; path = MKBeaconXCustomUI/Classes/SlotConfig/TriggerCell/MKBXSlotConfigTriggerCell.m; sourceTree = "<group>"; };
 		B36B86793C72C744997939660D9AB3CD /* HHBaseAnimatedTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HHBaseAnimatedTransition.h; path = HHTransition/HHBaseAnimatedTransition.h; sourceTree = "<group>"; };
 		B39A71890C72C11F2F036FE17B067815 /* HHInteractionTiltedTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HHInteractionTiltedTransition.h; path = HHTransition/HHInteractionTiltedTransition.h; sourceTree = "<group>"; };
-		B3E39B5D0EAD99D09236D3E5C939D4FC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		B3E39B5D0EAD99D09236D3E5C939D4FC /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B3E7AFC9C3FE48883CC087D82DAF43C5 /* bxa_slotTabBarItemSelected@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_slotTabBarItemSelected@3x.png"; path = "MKBeaconXProACTag/Assets/bxa_slotTabBarItemSelected@3x.png"; sourceTree = "<group>"; };
 		B4F10151F04A084D7B3B4C574D6C59F0 /* MASViewConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASViewConstraint.h; path = Masonry/MASViewConstraint.h; sourceTree = "<group>"; };
 		B52613E5225B0F4F6842EAA4B7295E1D /* CTMediator.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CTMediator.modulemap; sourceTree = "<group>"; };
@@ -1837,7 +1837,7 @@
 		B712F3088169F493FA560479248D7214 /* Masonry-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Masonry-Info.plist"; sourceTree = "<group>"; };
 		B7309804A11C6328EB29D28FD2172D1D /* MKAlertView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKAlertView.h; path = MKCustomUIModule/Classes/View/MKAlertView/MKAlertView.h; sourceTree = "<group>"; };
 		B781739E3BDB8B8B947DAD81AD734782 /* bxa_settingTabBarItemSelected@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_settingTabBarItemSelected@2x.png"; path = "MKBeaconXProACTag/Assets/bxa_settingTabBarItemSelected@2x.png"; sourceTree = "<group>"; };
-		B7CAC28611E6F284D621469730829543 /* chart.c */ = {isa = PBXFileReference; includeInIndex = 1; name = chart.c; path = src/chart.c; sourceTree = "<group>"; };
+		B7CAC28611E6F284D621469730829543 /* chart.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = chart.c; path = src/chart.c; sourceTree = "<group>"; };
 		B8E15E60041BE562CFD3820DB06FC2A4 /* MKFilterRawAdvDataCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKFilterRawAdvDataCell.m; path = MKCustomUIModule/Classes/Cell/LoRaCell/MKFilterRawAdvDataCell/MKFilterRawAdvDataCell.m; sourceTree = "<group>"; };
 		B97CE617E0A4561147814413B13F3E8F /* mk_bx_switchSelectedIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_bx_switchSelectedIcon@2x.png"; path = "MKBeaconXCustomUI/Assets/mk_bx_switchSelectedIcon@2x.png"; sourceTree = "<group>"; };
 		B9B786BB4E93BB8D094EC9CC86EE5BC2 /* drawing.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = drawing.h; path = include/xlsxwriter/drawing.h; sourceTree = "<group>"; };
@@ -1874,7 +1874,7 @@
 		C0E4CBEB3DFE50BBE1D36682F166ECFA /* MJRefreshGifHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MJRefreshGifHeader.h; path = MJRefresh/Custom/Header/MJRefreshGifHeader.h; sourceTree = "<group>"; };
 		C12A59A3BC0619F1584938D03E821CE7 /* Pods-MKBeaconXProACTag_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MKBeaconXProACTag_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C170CE73EBA2D2BE5328AB98BEA0F378 /* CircleProgressBar.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CircleProgressBar.modulemap; sourceTree = "<group>"; };
-		C1E35909F146F9F108100702AA31007F /* worksheet.c */ = {isa = PBXFileReference; includeInIndex = 1; name = worksheet.c; path = src/worksheet.c; sourceTree = "<group>"; };
+		C1E35909F146F9F108100702AA31007F /* worksheet.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = worksheet.c; path = src/worksheet.c; sourceTree = "<group>"; };
 		C279E2F016E778B60FD2282ACA1672CF /* Pods-MKBeaconXProACTag_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-MKBeaconXProACTag_Example-umbrella.h"; sourceTree = "<group>"; };
 		C291AC0DBEA2986CD250F2466A26691D /* MLInputDodger */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MLInputDodger; path = MLInputDodger.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2F24202B20217C0623F1B9703AEE806 /* UIScrollView+MJRefresh.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+MJRefresh.m"; path = "MJRefresh/UIScrollView+MJRefresh.m"; sourceTree = "<group>"; };
@@ -1899,13 +1899,13 @@
 		C919E1C0AC255E16CBEB54A35D0B3775 /* chartsheet.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = chartsheet.h; path = include/xlsxwriter/chartsheet.h; sourceTree = "<group>"; };
 		C9AD479D39EBC652A44E8E1F852344BA /* UIScrollView+MLInputDodger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+MLInputDodger.m"; path = "Classes/UIScrollView+MLInputDodger.m"; sourceTree = "<group>"; };
 		C9F0ACF3ED81AA9143E85E5B3167B98A /* MKBXSlotConfigInfoCell.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXSlotConfigInfoCell.h; path = MKBeaconXCustomUI/Classes/SlotConfig/SlotConfigCell/DeviceInfoCell/MKBXSlotConfigInfoCell.h; sourceTree = "<group>"; };
-		CB46C08F1BF7232F6DEBD5C3828E1FB7 /* utility.c */ = {isa = PBXFileReference; includeInIndex = 1; name = utility.c; path = src/utility.c; sourceTree = "<group>"; };
+		CB46C08F1BF7232F6DEBD5C3828E1FB7 /* utility.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = utility.c; path = src/utility.c; sourceTree = "<group>"; };
 		CBCBFC6B06AF9012C823256635BA94A6 /* HHInteractionFlipTransition.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HHInteractionFlipTransition.h; path = HHTransition/HHInteractionFlipTransition.h; sourceTree = "<group>"; };
 		CBDF320210C57D63CA2492B452EAC090 /* CircleProgressBar-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CircleProgressBar-dummy.m"; sourceTree = "<group>"; };
 		CC2B557CAABDF007F46A82C6485B54B4 /* MKXMLReader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKXMLReader.m; path = MKBaseModuleLibrary/Classes/Tools/MKExcelManager/MKXMLReader.m; sourceTree = "<group>"; };
 		CC331FE9412C226F21DEA06282722954 /* SecureDFUPeripheralDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SecureDFUPeripheralDelegate.swift; path = iOSDFULibrary/Classes/Implementation/SecureDFU/Peripheral/SecureDFUPeripheralDelegate.swift; sourceTree = "<group>"; };
 		CCAC36137AB60700F986F1CAC2CB9927 /* SSZipArchive-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SSZipArchive-prefix.pch"; sourceTree = "<group>"; };
-		CCED8E50E417EE59C96704AE88E41038 /* comment.c */ = {isa = PBXFileReference; includeInIndex = 1; name = comment.c; path = src/comment.c; sourceTree = "<group>"; };
+		CCED8E50E417EE59C96704AE88E41038 /* comment.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = comment.c; path = src/comment.c; sourceTree = "<group>"; };
 		CD760BAFDB0E6948A6068D8AAE86D7C4 /* MKBaseModuleLibrary-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MKBaseModuleLibrary-Info.plist"; sourceTree = "<group>"; };
 		CD89FE7B5172F139CE74D14EF9D02B28 /* MKLoRaAdvancedSettingCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKLoRaAdvancedSettingCell.m; path = MKCustomUIModule/Classes/Cell/LoRaCell/MKAdvancedSettingCell/MKLoRaAdvancedSettingCell.m; sourceTree = "<group>"; };
 		CDE565C98331BA93A3C112241794BDA7 /* MKCustomUIModule.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MKCustomUIModule.modulemap; sourceTree = "<group>"; };
@@ -1914,7 +1914,7 @@
 		CF260CADA8F82A90B5D863E2E559F3C6 /* HHInteractionTopBackTransition.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HHInteractionTopBackTransition.m; path = HHTransition/HHInteractionTopBackTransition.m; sourceTree = "<group>"; };
 		CFC99CD8D7D968085A42C38F3C811407 /* MKMacroDefines.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKMacroDefines.h; path = MKBaseModuleLibrary/Classes/Defines/MKMacroDefines.h; sourceTree = "<group>"; };
 		D0BA16AFF96F6F6F310FAED456874B34 /* mk_customUI_sliderThumbIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_customUI_sliderThumbIcon@3x.png"; path = "MKCustomUIModule/Assets/mk_customUI_sliderThumbIcon@3x.png"; sourceTree = "<group>"; };
-		D1A0E0346559D762A56DE021D3C0E190 /* packager.c */ = {isa = PBXFileReference; includeInIndex = 1; name = packager.c; path = src/packager.c; sourceTree = "<group>"; };
+		D1A0E0346559D762A56DE021D3C0E190 /* packager.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = packager.c; path = src/packager.c; sourceTree = "<group>"; };
 		D299E571E016B9E6B94A53EE5C782D2B /* MKCustomUIModule-MKCustomUIModule */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "MKCustomUIModule-MKCustomUIModule"; path = MKCustomUIModule.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2BD3DD28745AF639B73BE755572929F /* MKBXACQuickSwitchModel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBXACQuickSwitchModel.m; path = MKBeaconXProACTag/Classes/Functions/QuickSwitchPage/Model/MKBXACQuickSwitchModel.m; sourceTree = "<group>"; };
 		D420A79A282EBE8258BA40C19ECEBB3F /* WRCustomNavigationBar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = WRCustomNavigationBar.m; path = Demo/CodeDemo/WRNavigationBar/WRCustomNavigationBar.m; sourceTree = "<group>"; };
@@ -1945,11 +1945,11 @@
 		DAD190C9F92D530A666070D68C7AA9ED /* NirKxMenu.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NirKxMenu.h; path = MKCustomUIModule/Classes/View/NirKxMenu/NirKxMenu.h; sourceTree = "<group>"; };
 		DB52AC1A1474A9CA138593847E646C6F /* workbook.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = workbook.h; path = include/xlsxwriter/workbook.h; sourceTree = "<group>"; };
 		DB78D70459D430D9106DB16820D613B1 /* MJRefreshNormalTrailer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MJRefreshNormalTrailer.m; path = MJRefresh/Custom/Trailer/MJRefreshNormalTrailer.m; sourceTree = "<group>"; };
-		DB9790CA604B21BBD15144C76888819B /* mz_strm_zlib.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_strm_zlib.c; path = SSZipArchive/minizip/mz_strm_zlib.c; sourceTree = "<group>"; };
+		DB9790CA604B21BBD15144C76888819B /* mz_strm_zlib.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_strm_zlib.c; path = SSZipArchive/minizip/mz_strm_zlib.c; sourceTree = "<group>"; };
 		DBC15EB12073123CBA20FB2EFB983421 /* mk_bx_slotConfigSelectedIcon@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "mk_bx_slotConfigSelectedIcon@2x.png"; path = "MKBeaconXCustomUI/Assets/mk_bx_slotConfigSelectedIcon@2x.png"; sourceTree = "<group>"; };
 		DBCE84811C2B76F09FBFC4F89E99F377 /* MKBXACSlotConfigController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXACSlotConfigController.h; path = MKBeaconXProACTag/Classes/Functions/SlotConfigPage/Controller/MKBXACSlotConfigController.h; sourceTree = "<group>"; };
 		DC4DF784DF0CED1B2157C592CDF1CB39 /* iOSDFULibrary-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "iOSDFULibrary-prefix.pch"; sourceTree = "<group>"; };
-		DC6E32E0C4E5791489B780039A4D6435 /* mz_os_posix.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_os_posix.c; path = SSZipArchive/minizip/mz_os_posix.c; sourceTree = "<group>"; };
+		DC6E32E0C4E5791489B780039A4D6435 /* mz_os_posix.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_os_posix.c; path = SSZipArchive/minizip/mz_os_posix.c; sourceTree = "<group>"; };
 		DCAB071291F4424645FDD830BC7B609B /* bxa_switchUnselectedIcon@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "bxa_switchUnselectedIcon@3x.png"; path = "MKBeaconXProACTag/Assets/bxa_switchUnselectedIcon@3x.png"; sourceTree = "<group>"; };
 		DCACA5E8159559DA26590B9472BAE672 /* Toast-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Toast-dummy.m"; sourceTree = "<group>"; };
 		DCCFE47E1E2D92D42212BCCE820DC34A /* MKBXScanSearchButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKBXScanSearchButton.m; path = MKBeaconXCustomUI/Classes/ScanUI/ScanSearchButton/MKBXScanSearchButton.m; sourceTree = "<group>"; };
@@ -1969,7 +1969,7 @@
 		E10A3A1C1265D40A2A6AA70CDD3271F0 /* CTMediator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CTMediator.debug.xcconfig; sourceTree = "<group>"; };
 		E13BECD2413D333C71B5E141B6F15BFD /* MKLoraDeviceTypeCell.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MKLoraDeviceTypeCell.m; path = MKCustomUIModule/Classes/Cell/LoRaCell/MKLoraDeviceTypeCell/MKLoraDeviceTypeCell.m; sourceTree = "<group>"; };
 		E14BCAB366CB3A8EF78A2DD52F5B9A80 /* SecureDFUPacket.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SecureDFUPacket.swift; path = iOSDFULibrary/Classes/Implementation/SecureDFU/Characteristics/SecureDFUPacket.swift; sourceTree = "<group>"; };
-		E2406664DDE56811DBA36F17F470CEC8 /* mz_strm_mem.c */ = {isa = PBXFileReference; includeInIndex = 1; name = mz_strm_mem.c; path = SSZipArchive/minizip/mz_strm_mem.c; sourceTree = "<group>"; };
+		E2406664DDE56811DBA36F17F470CEC8 /* mz_strm_mem.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = mz_strm_mem.c; path = SSZipArchive/minizip/mz_strm_mem.c; sourceTree = "<group>"; };
 		E2898FCE98B917BAFA92CCE9B71DF6DA /* MKBXSlotFrameTypePickView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXSlotFrameTypePickView.h; path = MKBeaconXCustomUI/Classes/SlotConfig/FrameTypePickView/MKBXSlotFrameTypePickView.h; sourceTree = "<group>"; };
 		E2C55E5B282698A95CA043F6A60126D1 /* UIScrollView+MKAdd.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIScrollView+MKAdd.m"; path = "MKBaseModuleLibrary/Classes/Category/UIScrollView+MKAdd.m"; sourceTree = "<group>"; };
 		E2D79772811814952EA6F4C2FF2C3F00 /* MKBXACAboutController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXACAboutController.h; path = MKBeaconXProACTag/Classes/Functions/AboutPage/Controller/MKBXACAboutController.h; sourceTree = "<group>"; };
@@ -2047,7 +2047,7 @@
 		FB2FC0EE71BE6FD23E80A0C2E83A6841 /* MKBXACInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXACInterface.h; path = MKBeaconXProACTag/Classes/SDK/MKBXACInterface.h; sourceTree = "<group>"; };
 		FB6C8D6C51E272054214C0A5039C5007 /* HHInteractionDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HHInteractionDelegate.h; path = HHTransition/HHInteractionDelegate.h; sourceTree = "<group>"; };
 		FCC33BDF395586979803938CEBF791CF /* MKBXTriggerHumidityView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MKBXTriggerHumidityView.h; path = MKBeaconXCustomUI/Classes/SlotConfig/TriggerView/MKBXTriggerHumidityView.h; sourceTree = "<group>"; };
-		FCEAF8C929AFCC1FEA3D608898D44852 /* core.c */ = {isa = PBXFileReference; includeInIndex = 1; name = core.c; path = src/core.c; sourceTree = "<group>"; };
+		FCEAF8C929AFCC1FEA3D608898D44852 /* core.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = core.c; path = src/core.c; sourceTree = "<group>"; };
 		FD4C79E8D27B08520AF25824662325BC /* libxlsxwriter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = libxlsxwriter.release.xcconfig; sourceTree = "<group>"; };
 		FDAAC4DA30C3E67D2BEBDF190517AE5F /* MJRefresh.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MJRefresh.modulemap; sourceTree = "<group>"; };
 		FE0568F01B1E08BF0468649347A8FC46 /* libxlsxwriter-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "libxlsxwriter-Info.plist"; sourceTree = "<group>"; };
@@ -2271,7 +2271,6 @@
 				8284D0FAB5C9F086A0A6F3F53B06C778 /* CTMediator+HandyTools.m */,
 				0853164E8EC1C20E6CFF721B4E3C64E6 /* Support Files */,
 			);
-			name = CTMediator;
 			path = CTMediator;
 			sourceTree = "<group>";
 		};
@@ -2354,7 +2353,6 @@
 				17E5FFACBA7B24F4BF431C4A68C104A4 /* ZipArchive.h */,
 				618A562F8D145C5DB012A8B7F1E55CB7 /* Support Files */,
 			);
-			name = SSZipArchive;
 			path = SSZipArchive;
 			sourceTree = "<group>";
 		};
@@ -2372,7 +2370,6 @@
 				61397D887330D01B3E0223ACB2F68ABB /* MKBLEBaseSDKDefines.h */,
 				2078B5F79D9E142D53A81ECC32D7DC66 /* Support Files */,
 			);
-			name = MKBaseBleModule;
 			path = MKBaseBleModule;
 			sourceTree = "<group>";
 		};
@@ -2509,7 +2506,6 @@
 				400993F0FB0ECFEE5F8BB7A78D973DD3 /* Resources */,
 				9EB0D1662641F5DE2F70CC9BF25431E0 /* Support Files */,
 			);
-			name = MLInputDodger;
 			path = MLInputDodger;
 			sourceTree = "<group>";
 		};
@@ -2689,7 +2685,6 @@
 				ADF8AE310CF1672F3A2DA833851E01CD /* ZipArchive.swift */,
 				93D82144CAD410A8584634287A1FD1F7 /* Support Files */,
 			);
-			name = iOSDFULibrary;
 			path = iOSDFULibrary;
 			sourceTree = "<group>";
 		};
@@ -2864,7 +2859,6 @@
 				DF001D85CF55DA1AC6EF504560DB67EF /* ViewController+MASAdditions.m */,
 				ED25F34255A093A30BA578B558E06E1C /* Support Files */,
 			);
-			name = Masonry;
 			path = Masonry;
 			sourceTree = "<group>";
 		};
@@ -2912,7 +2906,6 @@
 				51F9FE7C2DD6C8B77FDB147233022420 /* MBProgressHUD.m */,
 				A2B4174CF3C45B9873969EAFD92D0B36 /* Support Files */,
 			);
-			name = MBProgressHUD;
 			path = MBProgressHUD;
 			sourceTree = "<group>";
 		};
@@ -3042,7 +3035,6 @@
 				FA6B1EA3D6AC4123B42D41D2921A9BCB /* zip.h */,
 				ED93CDFDA4BB462C295CF3B41A1A197E /* Support Files */,
 			);
-			name = libxlsxwriter;
 			path = libxlsxwriter;
 			sourceTree = "<group>";
 		};
@@ -3063,7 +3055,6 @@
 				B2DFB5B9162131638CB03CE794A09840 /* UIView+Toast.m */,
 				724BD2338B0345CFD6E1D50F60D48110 /* Support Files */,
 			);
-			name = Toast;
 			path = Toast;
 			sourceTree = "<group>";
 		};
@@ -3684,7 +3675,6 @@
 				D69A72A92C74245EB9FE4AD0643F6573 /* CircleProgressBar.m */,
 				E05449C110E5DFF5C22ED930DABAD25B /* Support Files */,
 			);
-			name = CircleProgressBar;
 			path = CircleProgressBar;
 			sourceTree = "<group>";
 		};
@@ -3749,7 +3739,6 @@
 				FC6AA77E7871289E5394DC58746B60F1 /* SlotConfig */,
 				FCBC2784EC8659718E15270BDC14867D /* Support Files */,
 			);
-			name = MKBeaconXCustomUI;
 			path = MKBeaconXCustomUI;
 			sourceTree = "<group>";
 		};
@@ -3868,7 +3857,6 @@
 				F1D670FB85DFF94C7F498CA22CA590E0 /* UIAdopter */,
 				C1F50E9846B1546DC924F4EBB5ADEA0D /* View */,
 			);
-			name = MKCustomUIModule;
 			path = MKCustomUIModule;
 			sourceTree = "<group>";
 		};
@@ -3881,7 +3869,6 @@
 				3FCD8FF019020420BD7B7619DE1CFB4B /* WRNavigationBar.m */,
 				BF1EC136ADA239D58E1FF1362289711D /* Support Files */,
 			);
-			name = WRNavigationBar;
 			path = WRNavigationBar;
 			sourceTree = "<group>";
 		};
@@ -3929,7 +3916,6 @@
 				8C889735F0491A7C1BDA2409DD249840 /* Support Files */,
 				3E24052AA2FBB02A862C143A312E1737 /* Tools */,
 			);
-			name = MKBaseModuleLibrary;
 			path = MKBaseModuleLibrary;
 			sourceTree = "<group>";
 		};
@@ -4041,7 +4027,6 @@
 				266243C9523EB5657E318381D204957E /* Resources */,
 				77FD7DA5D82B5B55FF97BA21F2DCD7AD /* Support Files */,
 			);
-			name = MJRefresh;
 			path = MJRefresh;
 			sourceTree = "<group>";
 		};
@@ -4269,7 +4254,6 @@
 				02A5A5C126C2B258235A6E4790639F95 /* UIViewController+HHTransitionProperty.m */,
 				3619ED51E7D4522314621021C6C19EB9 /* Support Files */,
 			);
-			name = HHTransition;
 			path = HHTransition;
 			sourceTree = "<group>";
 		};
@@ -4410,7 +4394,6 @@
 				9DDDF5628794745BFCD547AD35429756 /* FileManager+ZIP.swift */,
 				D8C4CFC3DC8E49DD8FC49EC74FBA7ECB /* Support Files */,
 			);
-			name = ZIPFoundation;
 			path = ZIPFoundation;
 			sourceTree = "<group>";
 		};
@@ -7079,8 +7062,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -7813,8 +7795,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
