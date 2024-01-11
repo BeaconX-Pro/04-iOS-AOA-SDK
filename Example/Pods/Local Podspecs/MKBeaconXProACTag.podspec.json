@@ -1,9 +1,9 @@
 {
   "name": "MKBeaconXProACTag",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "A short description of MKBeaconXProACTag.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/lovexiaoxia/MKBeaconXProACTag",
+  "homepage": "https://github.com/BeaconX-Pro/iOS-AOA-SDK",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,11 @@
     "lovexiaoxia": "aadyx2007@163.com"
   },
   "source": {
-    "git": "https://github.com/lovexiaoxia/MKBeaconXProACTag.git",
-    "tag": "0.0.1"
+    "git": "https://github.com/BeaconX-Pro/iOS-AOA-SDK.git",
+    "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "12.0"
+    "ios": "14.0"
   },
   "resource_bundles": {
     "MKBeaconXProACTag": [
@@ -94,7 +94,7 @@
 
         ],
         "iOSDFULibrary": [
-
+          "4.13.0"
         ]
       },
       "subspecs": [
