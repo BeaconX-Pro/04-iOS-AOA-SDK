@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		084C0B6FACB978555A8C9396 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		13CAF0C29DF74F4866457DB0 /* MKBeaconXProACTag.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MKBeaconXProACTag.podspec; path = ../MKBeaconXProACTag.podspec; sourceTree = "<group>"; };
+		13CAF0C29DF74F4866457DB0 /* MKBeaconXProACTag.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = MKBeaconXProACTag.podspec; path = ../MKBeaconXProACTag.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		1E775CF82F3B606750CFE09E /* Pods-MKBeaconXProACTag_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MKBeaconXProACTag_Example.debug.xcconfig"; path = "Target Support Files/Pods-MKBeaconXProACTag_Example/Pods-MKBeaconXProACTag_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* MKBeaconXProACTag_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MKBeaconXProACTag_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
