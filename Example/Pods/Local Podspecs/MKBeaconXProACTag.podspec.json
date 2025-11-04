@@ -28,71 +28,43 @@
       "name": "ConnectManager",
       "source_files": "MKBeaconXProACTag/Classes/ConnectManager/**",
       "dependencies": {
-        "MKBeaconXProACTag/SDK": [
-
-        ],
-        "MKBaseModuleLibrary": [
-
-        ]
+        "MKBeaconXProACTag/SDK": [],
+        "MKBaseModuleLibrary": []
       }
     },
     {
       "name": "CTMediator",
       "source_files": "MKBeaconXProACTag/Classes/CTMediator/**",
       "dependencies": {
-        "MKBaseModuleLibrary": [
-
-        ],
-        "CTMediator": [
-
-        ]
+        "MKBaseModuleLibrary": [],
+        "CTMediator": []
       }
     },
     {
       "name": "SDK",
       "source_files": "MKBeaconXProACTag/Classes/SDK/**",
       "dependencies": {
-        "MKBaseBleModule": [
-
-        ]
+        "MKBaseBleModule": []
       }
     },
     {
       "name": "Target",
       "source_files": "MKBeaconXProACTag/Classes/Target/**",
       "dependencies": {
-        "MKBeaconXProACTag/Functions": [
-
-        ]
+        "MKBeaconXProACTag/Functions": []
       }
     },
     {
       "name": "Functions",
       "dependencies": {
-        "MKBeaconXProACTag/SDK": [
-
-        ],
-        "MKBeaconXProACTag/CTMediator": [
-
-        ],
-        "MKBeaconXProACTag/ConnectManager": [
-
-        ],
-        "MKBaseModuleLibrary": [
-
-        ],
-        "MKCustomUIModule": [
-
-        ],
-        "MKBeaconXCustomUI": [
-
-        ],
-        "HHTransition": [
-
-        ],
-        "MLInputDodger": [
-
-        ],
+        "MKBeaconXProACTag/SDK": [],
+        "MKBeaconXProACTag/CTMediator": [],
+        "MKBeaconXProACTag/ConnectManager": [],
+        "MKBaseModuleLibrary": [],
+        "MKCustomUIModule": [],
+        "MKBeaconXCustomUI": [],
+        "HHTransition": [],
+        "MLInputDodger": [],
         "iOSDFULibrary": [
           "4.13.0"
         ]
@@ -114,12 +86,8 @@
               "name": "Controller",
               "source_files": "MKBeaconXProACTag/Classes/Functions/AccelerationPage/Controller/**",
               "dependencies": {
-                "MKBeaconXProACTag/Functions/AccelerationPage/Model": [
-
-                ],
-                "MKBeaconXProACTag/Functions/AccelerationPage/View": [
-
-                ]
+                "MKBeaconXProACTag/Functions/AccelerationPage/Model": [],
+                "MKBeaconXProACTag/Functions/AccelerationPage/View": []
               }
             },
             {
@@ -139,9 +107,7 @@
               "name": "Controller",
               "source_files": "MKBeaconXProACTag/Classes/Functions/DeviceInfoPage/Controller/**",
               "dependencies": {
-                "MKBeaconXProACTag/Functions/DeviceInfoPage/Model": [
-
-                ]
+                "MKBeaconXProACTag/Functions/DeviceInfoPage/Model": []
               }
             },
             {
@@ -157,12 +123,8 @@
               "name": "Controller",
               "source_files": "MKBeaconXProACTag/Classes/Functions/PowerConfigPage/Controller/**",
               "dependencies": {
-                "MKBeaconXProACTag/Functions/PowerConfigPage/Model": [
-
-                ],
-                "MKBeaconXProACTag/Functions/PowerConfigPage/View": [
-
-                ]
+                "MKBeaconXProACTag/Functions/PowerConfigPage/Model": [],
+                "MKBeaconXProACTag/Functions/PowerConfigPage/View": []
               }
             },
             {
@@ -182,9 +144,7 @@
               "name": "Controller",
               "source_files": "MKBeaconXProACTag/Classes/Functions/QuickSwitchPage/Controller/**",
               "dependencies": {
-                "MKBeaconXProACTag/Functions/QuickSwitchPage/Model": [
-
-                ]
+                "MKBeaconXProACTag/Functions/QuickSwitchPage/Model": []
               }
             },
             {
@@ -200,30 +160,18 @@
               "name": "Controller",
               "source_files": "MKBeaconXProACTag/Classes/Functions/ScanPage/Controller/**",
               "dependencies": {
-                "MKBeaconXProACTag/Functions/ScanPage/Model": [
-
-                ],
-                "MKBeaconXProACTag/Functions/ScanPage/View": [
-
-                ],
-                "MKBeaconXProACTag/Functions/ScanPage/Adopter": [
-
-                ],
-                "MKBeaconXProACTag/Functions/TabBarPage/Controller": [
-
-                ],
-                "MKBeaconXProACTag/Functions/AboutPage/Controller": [
-
-                ]
+                "MKBeaconXProACTag/Functions/ScanPage/Model": [],
+                "MKBeaconXProACTag/Functions/ScanPage/View": [],
+                "MKBeaconXProACTag/Functions/ScanPage/Adopter": [],
+                "MKBeaconXProACTag/Functions/TabBarPage/Controller": [],
+                "MKBeaconXProACTag/Functions/AboutPage/Controller": []
               }
             },
             {
               "name": "View",
               "source_files": "MKBeaconXProACTag/Classes/Functions/ScanPage/View/**",
               "dependencies": {
-                "MKBeaconXProACTag/Functions/ScanPage/Model": [
-
-                ]
+                "MKBeaconXProACTag/Functions/ScanPage/Model": []
               }
             },
             {
@@ -234,12 +182,8 @@
               "name": "Adopter",
               "source_files": "MKBeaconXProACTag/Classes/Functions/ScanPage/Adopter/**",
               "dependencies": {
-                "MKBeaconXProACTag/Functions/ScanPage/Model": [
-
-                ],
-                "MKBeaconXProACTag/Functions/ScanPage/View": [
-
-                ]
+                "MKBeaconXProACTag/Functions/ScanPage/Model": [],
+                "MKBeaconXProACTag/Functions/ScanPage/View": []
               }
             }
           ]
@@ -251,21 +195,11 @@
               "name": "Controller",
               "source_files": "MKBeaconXProACTag/Classes/Functions/SettingPage/Controller/**",
               "dependencies": {
-                "MKBeaconXProACTag/Functions/SettingPage/Model": [
-
-                ],
-                "MKBeaconXProACTag/Functions/AccelerationPage/Controller": [
-
-                ],
-                "MKBeaconXProACTag/Functions/PowerConfigPage/Controller": [
-
-                ],
-                "MKBeaconXProACTag/Functions/QuickSwitchPage/Controller": [
-
-                ],
-                "MKBeaconXProACTag/Functions/UpdatePage/Controller": [
-
-                ]
+                "MKBeaconXProACTag/Functions/SettingPage/Model": [],
+                "MKBeaconXProACTag/Functions/AccelerationPage/Controller": [],
+                "MKBeaconXProACTag/Functions/PowerConfigPage/Controller": [],
+                "MKBeaconXProACTag/Functions/QuickSwitchPage/Controller": [],
+                "MKBeaconXProACTag/Functions/UpdatePage/Controller": []
               }
             },
             {
@@ -281,12 +215,8 @@
               "name": "Controller",
               "source_files": "MKBeaconXProACTag/Classes/Functions/SlotConfigPage/Controller/**",
               "dependencies": {
-                "MKBeaconXProACTag/Functions/SlotConfigPage/Model": [
-
-                ],
-                "MKBeaconXProACTag/Functions/SlotConfigPage/View": [
-
-                ]
+                "MKBeaconXProACTag/Functions/SlotConfigPage/Model": [],
+                "MKBeaconXProACTag/Functions/SlotConfigPage/View": []
               }
             },
             {
@@ -306,15 +236,9 @@
               "name": "Controller",
               "source_files": "MKBeaconXProACTag/Classes/Functions/TabBarPage/Controller/**",
               "dependencies": {
-                "MKBeaconXProACTag/Functions/SlotConfigPage/Controller": [
-
-                ],
-                "MKBeaconXProACTag/Functions/SettingPage/Controller": [
-
-                ],
-                "MKBeaconXProACTag/Functions/DeviceInfoPage/Controller": [
-
-                ]
+                "MKBeaconXProACTag/Functions/SlotConfigPage/Controller": [],
+                "MKBeaconXProACTag/Functions/SettingPage/Controller": [],
+                "MKBeaconXProACTag/Functions/DeviceInfoPage/Controller": []
               }
             }
           ]
@@ -326,9 +250,7 @@
               "name": "Controller",
               "source_files": "MKBeaconXProACTag/Classes/Functions/UpdatePage/Controller/**",
               "dependencies": {
-                "MKBeaconXProACTag/Functions/UpdatePage/Model": [
-
-                ]
+                "MKBeaconXProACTag/Functions/UpdatePage/Model": []
               }
             },
             {
